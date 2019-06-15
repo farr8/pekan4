@@ -1,0 +1,28 @@
+.containerr {
+	width: 920px;
+	margin: auto;
+}
+
+.header {
+	margin: 0;
+	height: 45px;
+	background-color: black;
+}
+.menuh {
+	list-style-type: none;
+	margin: 0;
+	overflow: hidden;
+}
+
+.li {
+	color: #dae0e8;
+	float: left;
+}
+
+.content {
+	background-color: red;
+}
+
+.footer {
+	background-color: yellow;
+}
